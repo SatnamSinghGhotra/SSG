@@ -1,1 +1,1 @@
-# SSG
+# Binary Translator
